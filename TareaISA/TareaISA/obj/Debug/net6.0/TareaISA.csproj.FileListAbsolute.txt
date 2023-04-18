@@ -1,0 +1,15 @@
+C:\Users\fnico\Documents\GitHub\tareasisa\TareaISA\TareaISA\bin\Debug\net6.0\TareaISA.exe
+C:\Users\fnico\Documents\GitHub\tareasisa\TareaISA\TareaISA\bin\Debug\net6.0\TareaISA.deps.json
+C:\Users\fnico\Documents\GitHub\tareasisa\TareaISA\TareaISA\bin\Debug\net6.0\TareaISA.runtimeconfig.json
+C:\Users\fnico\Documents\GitHub\tareasisa\TareaISA\TareaISA\bin\Debug\net6.0\TareaISA.dll
+C:\Users\fnico\Documents\GitHub\tareasisa\TareaISA\TareaISA\bin\Debug\net6.0\TareaISA.pdb
+C:\Users\fnico\Documents\GitHub\tareasisa\TareaISA\TareaISA\obj\Debug\net6.0\TareaISA.csproj.AssemblyReference.cache
+C:\Users\fnico\Documents\GitHub\tareasisa\TareaISA\TareaISA\obj\Debug\net6.0\TareaISA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnico\Documents\GitHub\tareasisa\TareaISA\TareaISA\obj\Debug\net6.0\TareaISA.AssemblyInfoInputs.cache
+C:\Users\fnico\Documents\GitHub\tareasisa\TareaISA\TareaISA\obj\Debug\net6.0\TareaISA.AssemblyInfo.cs
+C:\Users\fnico\Documents\GitHub\tareasisa\TareaISA\TareaISA\obj\Debug\net6.0\TareaISA.csproj.CoreCompileInputs.cache
+C:\Users\fnico\Documents\GitHub\tareasisa\TareaISA\TareaISA\obj\Debug\net6.0\TareaISA.dll
+C:\Users\fnico\Documents\GitHub\tareasisa\TareaISA\TareaISA\obj\Debug\net6.0\refint\TareaISA.dll
+C:\Users\fnico\Documents\GitHub\tareasisa\TareaISA\TareaISA\obj\Debug\net6.0\TareaISA.pdb
+C:\Users\fnico\Documents\GitHub\tareasisa\TareaISA\TareaISA\obj\Debug\net6.0\TareaISA.genruntimeconfig.cache
+C:\Users\fnico\Documents\GitHub\tareasisa\TareaISA\TareaISA\obj\Debug\net6.0\ref\TareaISA.dll
